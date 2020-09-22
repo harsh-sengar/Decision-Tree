@@ -1,3 +1,3 @@
 # Decision-Tree
-Implementation of Entropy based decision tree in python. 
+Implementation of entropy based Decision Tree in python. 
 Dataset used - iris(sklearn)
